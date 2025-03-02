@@ -3478,7 +3478,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background-color: #cdffd8;
+		background-color: #c4f4de;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3765,6 +3765,7 @@ input, select, textarea {
 				text-align: center;
 				top: 0;
 				width: 100%;
+				
 			}
 
 				#sidebar > .inner {
@@ -3778,6 +3779,7 @@ input, select, textarea {
 					align-items: stretch;
 					height: inherit;
 					line-height: inherit;
+					background: linear-gradient(90deg, #cdffd8 0%, #94b9ff 100%);
 				}
 
 				#sidebar nav {
